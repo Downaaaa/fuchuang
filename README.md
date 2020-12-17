@@ -1,2 +1,1 @@
-# fuchuang
-实践github
+嘿嘿
